@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android.ocr</string>
+    <string name="button1">START</string>
+    <string name="text_view1">Text View</string>
+    <string name="text_view2">Text View</string>
+    <string name="text_view3">Text View</string>
+    <string name="button2">ADD TO CONTACTS</string>
+    <string name="ocr">OCR</string>
+</resources>
